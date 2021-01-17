@@ -1,0 +1,7 @@
+# DATe		Ticker			units		price		comision	currency
+2020-01-02	AAA			1.0		100.0		10.0		EUR
+2020-01-03 	AAA			1.0		100.0		10.0		EUR
+2020-01-03	AAA	       		-1.0		150.0		10.0		EUR
+2020-01-10	USD	         	50                0.7            0.0		EUR  # 50 USD bought at 0.7 EUR/USD, 35EUR
+2020-01-10	BBB	        	1.5		   50		 0.0 		USD
+
